@@ -1,4 +1,10 @@
 h1 {
   color: #3c7bb7;
-  font-size: 14em;
+  font-size: 10em;
+  margin: 0 auto;
 }
+
+body {
+  background-color: #3b4248;
+}
+
